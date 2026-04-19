@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://matt-hax.github.io/Threat-Hunting-Scenario/SS_ThreatHunt.html)**
+- **[Threat Hunting Scenario (Scattered Spider (BEC))](https://matt-hax.github.io/Threat-Hunting-Scenario/SS_ThreatHunt.html)**
 
 <hr/>
 
