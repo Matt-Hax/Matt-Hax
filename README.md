@@ -69,7 +69,7 @@ This setup allows me to simulate attacks and practice detection in a controlled 
 
 * Threat Hunting
 * Incident Response
-* SIEM (Splunk / Microsoft Sentinel)
+* SIEM (Microsoft Sentinel/KQL)
 * Vulnerability Management
 
 **Technical**
