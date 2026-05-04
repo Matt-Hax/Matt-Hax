@@ -15,7 +15,7 @@ B.S. Cybersecurity
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Programmatic Vulnerability Remediations (PowerShell)]([https://github.com/joshcybertest/programmatic-vulnerability-remediations](https://matt-hax.github.io/Programmatic-Vuln-Remediation/))**
+- **[Programmatic Vulnerability Remediations (PowerShell)](https://matt-hax.github.io/Programmatic-Vuln-Remediation/)**
 
 ## 🚨 Threat Hunting and Security Operations
 
