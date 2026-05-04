@@ -29,7 +29,7 @@ Includes:
 * RDP security enforcement
 * Local policy configurations
 
-👉 https://github.com/Matt-Hax/YOUR-REPO
+👉 https://matt-hax.github.io/Programmatic-Vuln-Remediation/
 
 ---
 
@@ -46,7 +46,7 @@ Covers:
 * SIEM investigation workflow
 * Key indicators of compromise (IOCs)
 
-👉 https://github.com/Matt-Hax/YOUR-REPO
+👉 https://matt-hax.github.io/Threat-Hunting-Scenario/SS_ThreatHunt.html
 
 ---
 
@@ -91,7 +91,7 @@ This setup allows me to simulate attacks and practice detection in a controlled 
 
 ## 📫 Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+* 💼 LinkedIn: https://linkedin.com/in/mmcclin97
 * 🌐 Portfolio: https://matt-hax.github.io
 
 ---
