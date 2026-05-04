@@ -1,30 +1,97 @@
-# <a href="https://www.linkedin.com/in/mmcclin97/">Matt McClintock</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 🔐 Matt McClintock — Cybersecurity Portfolio
 
-Hey, I'm Matt 👋
-I'm an IT Support Specialist with a passion for cybersecurity. I hold a Bachelor's in Cybersecurity along with CompTIA Security+ and CySA+, and I'm actively sharpening my skills in two areas I care a lot about: SOC analysis and vulnerability management. You'll find most of what I put here reflects that — threat hunts, detection writeups, and lab work I've done to upskill.
+Hey, I’m Matt 👋
+I’m an IT Support Specialist with a strong focus on cybersecurity, specifically in **threat hunting, incident response, and vulnerability management**.
+
+This GitHub serves as a hands-on portfolio of the work I’m doing to transition into a SOC / cybersecurity role — everything here is built, tested, and documented in my lab environment.
+
 ---
-🔍 What I'm working on -
 
-Practicing threat hunting and incident response scenarios
-Building out skills in vulnerability management workflows
-Documenting everything here so I can track my own progress
-📜 Certifications
-CompTIA Security+
-CompTIA CySA+
-B.S. Cybersecurity
+## 🧭 What I’m Focused On
+
+* 🕵️ Practicing **threat hunting & incident response scenarios**
+* 🛠️ Building **PowerShell-based STIG remediations**
+* 📊 Developing **vulnerability management workflows**
+* 🧪 Expanding a **cybersecurity homelab** for real-world simulations
+
 ---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Programmatic Vulnerability Remediations (PowerShell)](https://matt-hax.github.io/Programmatic-Vuln-Remediation/)**
+### 🔐 Programmatic Vulnerability Remediations (PowerShell)
 
-## 🚨 Threat Hunting and Security Operations
+A growing collection of PowerShell scripts designed to automate **Windows security hardening** based on DISA STIG requirements.
 
-- **[Threat Hunting Scenario (Scattered Spider (BEC))](https://matt-hax.github.io/Threat-Hunting-Scenario/SS_ThreatHunt.html)**
+Includes:
 
+* SMBv1 disablement
+* WinRM hardening
+* RDP security enforcement
+* Local policy configurations
 
+👉 https://github.com/Matt-Hax/YOUR-REPO
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+---
+
+## 🚨 Threat Hunting & Security Operations
+
+### 🕵️ Threat Hunting Scenario — Scattered Spider (BEC)
+
+A simulated **Business Email Compromise (BEC)** scenario inspired by real-world attacker techniques.
+
+Covers:
+
+* Attack breakdown
+* Detection methodology
+* SIEM investigation workflow
+* Key indicators of compromise (IOCs)
+
+👉 https://github.com/Matt-Hax/YOUR-REPO
+
+---
+
+## 🧪 Lab Environment
+
+My projects are built and tested inside a virtualized lab environment:
+
+* 🔥 pfSense (network firewall & segmentation)
+* 🐉 Kali Linux (attack simulation)
+* 🖥️ Windows endpoints (target systems)
+* 📡 SIEM tools for log ingestion & analysis
+
+This setup allows me to simulate attacks and practice detection in a controlled environment.
+
+---
+
+## 🧠 Technical Skills
+
+**Security**
+
+* Threat Hunting
+* Incident Response
+* SIEM (Splunk / Microsoft Sentinel)
+* Vulnerability Management
+
+**Technical**
+
+* PowerShell Scripting
+* Windows Security Hardening
+* Networking Fundamentals
+* Endpoint Security Tools
+
+---
+
+## 📜 Certifications
+
+* CompTIA Security+
+* CompTIA CySA+
+* B.S. in Cybersecurity
+
+---
+
+## 📫 Connect
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+* 🌐 Portfolio: https://matt-hax.github.io
+
+---
