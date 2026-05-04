@@ -3,7 +3,8 @@
 Hey, I'm Matt 👋
 I'm an IT Support Specialist with a passion for cybersecurity. I hold a Bachelor's in Cybersecurity along with CompTIA Security+ and CySA+, and I'm actively sharpening my skills in two areas I care a lot about: SOC analysis and vulnerability management. You'll find most of what I put here reflects that — threat hunts, detection writeups, and lab work I've done to upskill.
 ---
-🔍 What I'm working on
+🔍 What I'm working on -
+
 Practicing threat hunting and incident response scenarios
 Building out skills in vulnerability management workflows
 Documenting everything here so I can track my own progress
